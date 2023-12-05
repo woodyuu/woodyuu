@@ -51,7 +51,7 @@
   <a href="mailto:onlyhale@naver.com">
     <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
   </a>
-  <a href="mailto:onlyhale@gmail.com">
+  <a href="mailto:onlyhale67@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/kakakoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
