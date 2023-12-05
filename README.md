@@ -1,10 +1,14 @@
+
+
 <div align='center'>  
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)![Typing SVG](https://readme-typing-svg.demolab.com?font=Schoolbell&weight=400&size=45&duration=3500&pause=3&color=6994CDEE&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woody's+GitHub!+👋) 
 </div>
+
 <br/>
 <div align="center">
   
+  -------
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodyuu&count_bg=%2369B2DB&title_bg=%23555555&icon=github.svg&icon_color=%23D2D3D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/><br/>
   [![Woodyuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodyuu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
